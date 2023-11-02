@@ -1,0 +1,22 @@
+.message-box{
+    display: flex;
+    height: fit-content;
+}
+
+.message{
+    padding: 0.3rem 0.8rem;
+    margin: 11px 5px 0 5px;
+    border-radius: 5px;
+    max-width: 70vmax;
+}
+
+.right{
+    background-color: #e6939e;
+    color: white;   
+}
+
+.left{
+    background-color: gainsboro;
+    color:black;    
+}
+
