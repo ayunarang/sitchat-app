@@ -7,7 +7,7 @@ import ReactScrollToBottom from 'react-scroll-to-bottom';
 import logo from '../../images/logo-name.png';
 import closeButton from '../../images/icons8-close-button-32.png';
 
-const ENDPOINT= 'http://localhost:4500/';
+const ENDPOINT= 'https://sitchat-app.onrender.com/';
 let socket;
 let message;
 
